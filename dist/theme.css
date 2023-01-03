@@ -1,0 +1,71 @@
+:root {
+  --saturation-index: 5; /*zero sets default colors*/
+  --deg: 0;
+  --primary-dark-100: hsl(calc(var(--deg) + 240), calc(var(--saturation-index) * 5.9%), 96.7%);
+  --primary-dark-130: hsl(calc(var(--deg) + 180), calc(var(--saturation-index) * 3.2%), 93.9%);
+  --primary-dark-160: hsl(calc(var(--deg) + 240), calc(var(--saturation-index) * 4.2%), 90.6%);
+  --primary-dark-200: hsl(calc(var(--deg) + 210), calc(var(--saturation-index) * 2.9%), 86.7%);
+  --primary-dark-230: hsl(calc(var(--deg) + 210), calc(var(--saturation-index) * 4.5%), 82.7%);
+  --primary-dark-260: hsl(calc(var(--deg) + 210), calc(var(--saturation-index) * 3.6%), 78.4%);
+  --primary-dark-300: hsl(calc(var(--deg) + 216), calc(var(--saturation-index) * 3.7%), 73.5%);
+  --primary-dark-330: hsl(calc(var(--deg) + 214), calc(var(--saturation-index) * 4%), 65.3%);
+  --primary-dark-345: hsl(calc(var(--deg) + 230), calc(var(--saturation-index) * 3.4%), 60.2%);
+  --primary-dark-360: hsl(calc(var(--deg) + 213), calc(var(--saturation-index) * 4.1%), 57.5%);
+  --primary-dark-400: hsl(calc(var(--deg) + 218), calc(var(--saturation-index) * 4.6%), 46.9%);
+  --primary-dark-430: hsl(calc(var(--deg) + 213), calc(var(--saturation-index) * 5%), 42.9%);
+  --primary-dark-460: hsl(calc(var(--deg) + 215), calc(var(--saturation-index) * 6.1%), 38.8%);
+  --primary-dark-500: hsl(calc(var(--deg) + 217), calc(var(--saturation-index) * 7.6%), 33.5%);
+  --primary-dark-530: hsl(calc(var(--deg) + 220), calc(var(--saturation-index) * 7.7%), 30.6%);
+  --primary-dark-560: hsl(calc(var(--deg) + 218), calc(var(--saturation-index) * 7.9%), 27.3%);
+  --primary-dark-600: hsl(calc(var(--deg) + 220), calc(var(--saturation-index) * 7.7%), 22.9%);
+  --primary-dark-630: hsl(calc(var(--deg) + 230), calc(var(--saturation-index) * 6.9%), 19.8%);
+  --primary-dark-660: hsl(calc(var(--deg) + 220), calc(var(--saturation-index) * 6.8%), 17.3%);
+  --primary-dark-700: hsl(calc(var(--deg) + 216), calc(var(--saturation-index) * 7.2%), 13.5%);
+  --primary-dark-730: hsl(calc(var(--deg) + 225), calc(var(--saturation-index) * 6.3%), 12.5%);
+  --primary-dark-760: hsl(calc(var(--deg) + 216), calc(var(--saturation-index) * 8.5%), 11.6%);
+  --primary-dark-800: hsl(calc(var(--deg) + 225), calc(var(--saturation-index) * 7.7%), 10.2%);
+  --primary-dark-830: hsl(calc(var(--deg) + 220), calc(var(--saturation-index) * 7.7%), 7.6%);
+  --primary-dark-860: hsl(calc(var(--deg) + 210), calc(var(--saturation-index) * 7.7%), 5.1%);
+  --primary-dark-900: hsl(calc(var(--deg) + 240), calc(var(--saturation-index) * 11.1%), 1.8%);
+}
+
+.app-2CXKsg,
+.applicationStore-2nk7Lo,
+.chat-2ZfjoI,
+.container-2cd8Mz,
+.container-ZMc96U.themed-Hp1KC_,
+.container-1NXEtd,
+.container-PNkimc,
+.contentRegion-3HkfJJ,
+.contentRegionScroller-2_GT_N,
+.header-2EadGG,
+.inviteToolbar-2k2nqz,
+.layer-86YKbF,
+.members-3WRCEx,
+.members-3WRCEx > div,
+.messages-3amgkR,
+.notice-12Koq-,
+.nowPlayingColumn-1eCBCN,
+.pageWrapper-2PwDoS,
+.panels-3wFtMD,
+.privateChannels-oVe7HL,
+.scroller-2XLwLg,
+.wrapper-3HVHpV,
+.wrapper-15CKyy,
+.scroller-WSmht3,
+.scroller-2TZvBN,
+.scroller-1TOeMq,
+.scroller-3_YDR2,
+.scroller-29cQFV,
+.sidebar-1tnWFu,
+.sidebarRegionScroller-FXiQOh,
+.standardSidebarView-E9Pc3j,
+.wrapper-1Rf91z,
+.container-1oAagU,
+.wrapper-1gVUIN,
+.wrapper-1gVUIN.minimum-fXpVNc,
+.wrapper-KXM2i0 {
+  background: var(--background-secondary) !important;
+}
+
+/*# sourceMappingURL=theme.css.map */
